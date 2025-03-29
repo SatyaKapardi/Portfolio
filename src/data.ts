@@ -122,7 +122,7 @@ export const financeResources: FinanceResource[] = [
 export const aboutMe: AboutMe = {
   name: "Srisatya Kapardi Budi",
   title: "Software Engineer",
-  image: "/src/myphoto",
+  image: "https://github.com/SatyaKapardi/Portfolio/raw/main/src/myphoto.jpeg",
   bio: "Passionate software engineer with a strong foundation in CS, excelling in problem-solving, optimization, and scalable system design. Thrives on building efficient, impactful tech solutions. 🚀",
   expertise: ["React", "TypeScript", "Node.js", "Python", "AWS", "MongoDB", "Javascript", "C++", "Java", "Spring Boot"],
   softSkills: [
