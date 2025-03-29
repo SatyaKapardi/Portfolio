@@ -32,19 +32,19 @@ export const projects: Project[] = [
     name: "boAt",
     techStack: ["Javascript", "Node.js", "Sanity", "Stripe"],
     description: "A web application to buy and sell headphones",
-    link: "https://github.com/yourusername/boat"
+    link: "https://github.com/SatyaKapardi/boAt.git"
   },
   {
     name: "Banking Application",
     techStack: ["Java", "Spring boot", "MySQL", "Spring Security"],
     description: "Microservices-based banking application",
-    link: "https://github.com/yourusername/banking-app"
+    link: "https://github.com/SatyaKapardi/Banking-Application.git"
   },
   {
     name: "Health Insurance Claim Fraud Detection",
     techStack: ["Random Forest", "Support Vector Machine", "Logistic Regression"],
     description: "ML model to identify fraudulent insurance claims",
-    link: "https://github.com/yourusername/fraud-detection"
+    link: "https://github.com/SatyaKapardi/Health-Insurance-Claim-Fraud-Detection.git"
   }
 ];
 
@@ -54,14 +54,14 @@ export const publications: Publication[] = [
     conference: "IEEE ICCSAI 2023",
     year: "2023",
     abstract: "This paper compares traditional content-based image retrieval (CBIR) methods with deep convolutional neural network (CNN) models for feature extraction, demonstrating that pre-trained CNNs, particularly VGG16, significantly improve retrieval precision. The proposed approach achieved an average precision of 86.73%, outperforming conventional hand-crafted feature-based methods by 13.48%.",
-    link: "https://example.com/paper1"
+    link: "https://ieeexplore.ieee.org/document/10421161"
   },
   {
     title: "A study of Deep Learning Algorithm for Brain Computer Interface Cinematics",
     conference: "IEEE IC3I 2022",
     year: "2022",
     abstract: "This research explores a deep learning model using EEG sensors to analyze audience emotional responses to film previews, achieving 85% accuracy in predicting viewer emotions to aid filmmakers in pre-release adjustments.",
-    link: "https://example.com/paper2"
+    link: "https://ieeexplore.ieee.org/document/10072540"
   }
 ];
 
@@ -74,6 +74,7 @@ export const mediaList: Media[] = [
     link: "https://www.imdb.com/title/tt2560140/",
     image: "https://images.unsplash.com/photo-1541562232579-512a21360020?auto=format&fit=crop&q=80&w=800"
   }
+  
 ];
 
 export const financeResources: FinanceResource[] = [
@@ -121,7 +122,7 @@ export const financeResources: FinanceResource[] = [
 export const aboutMe: AboutMe = {
   name: "Srisatya Kapardi Budi",
   title: "Software Engineer",
-  image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800",
+  image: "/src/myphoto.jpeg",
   bio: "Passionate software engineer with a strong foundation in CS, excelling in problem-solving, optimization, and scalable system design. Thrives on building efficient, impactful tech solutions. 🚀",
   expertise: ["React", "TypeScript", "Node.js", "Python", "AWS", "MongoDB", "Javascript", "C++", "Java", "Spring Boot"],
   softSkills: [
