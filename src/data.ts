@@ -123,7 +123,7 @@ export const aboutMe: AboutMe = {
   title: "Software Engineer",
   image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800",
   bio: "Passionate software engineer with a strong foundation in CS, excelling in problem-solving, optimization, and scalable system design. Thrives on building efficient, impactful tech solutions. 🚀",
-  expertise: ["React", "TypeScript", "Node.js", "Python", "AWS"],
+  expertise: ["React", "TypeScript", "Node.js", "Python", "AWS", "MongoDB", "Javascript", "C++", "Java", "Spring Boot"],
   softSkills: [
     "Leadership",
     "Problem Solving",
@@ -134,9 +134,9 @@ export const aboutMe: AboutMe = {
     "Critical Thinking"
   ],
   socials: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    leetcode: "https://leetcode.com/yourusername"
+    github: "https://github.com/SatyaKapardi/",
+    linkedin: "https://www.linkedin.com/in/satyakapardi/",
+    leetcode: "https://leetcode.com/u/bskapardi2002/"
   },
-  hobbies: ["Watching Anime", "Reading", "Personal Finance", "Movies"]
+  hobbies: ["Anime", "Reading", "Personal Finance", "Movies", "TV Shows"]
 };
